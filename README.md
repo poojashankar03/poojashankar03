@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-</style>
-
 # 👋 Hey there, I'm Pooja J! 🌟
 
 ## 🚀 About Me
