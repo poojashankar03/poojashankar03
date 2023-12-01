@@ -2,7 +2,11 @@
 
 ## 🚀 About Me
 
-Welcome to my digital playground! I'm a passionate 3rd-year B.Tech IT student at Velammal Engineering College, weaving wonders with code and pixels. From crafting intricate web experiences to launching dreams into the digital cosmos, I embark on a coding odyssey.
+Greetings! I'm Pooja J, a passionate 3rd-year B.Tech IT student at Velammal Engineering College, constantly captivated by the ever-evolving world of technology.
+
+### 🌐 Current Focus
+
+Right now, I'm channeling my energy into developing a dynamic e-commerce website. This project is not just about lines of code; it's about building an online space where users can explore, shop, and enjoy a smooth digital journey.
 
 ### 💡 Tech Explorations
 
