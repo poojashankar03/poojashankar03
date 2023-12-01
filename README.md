@@ -30,7 +30,7 @@ Right now, I'm channeling my energy into developing a dynamic e-commerce website
 Feel free to join me on this cosmic journey! Connect with me through the following channels:
 
 - 🌐 [GitHub](https://github.com/poojashankar03)
-- 🔗 [LinkedIn](www.linkedin.com/in/pooja-jaishankar)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pooja-jaishankar)
 - ✉️ Email: poojashankar.jai@gmail.com
 - 🌟 [HackerRank](https://www.hackerrank.com/poojajaishankar3)
 
