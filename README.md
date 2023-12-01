@@ -32,6 +32,5 @@ Feel free to join me on this cosmic journey! Connect with me through the followi
 - 🌐 [GitHub](https://github.com/poojashankar03)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pooja-jaishankar)
 - ✉️ Email: poojashankar.jai@gmail.com
-- 🌟 [HackerRank](https://www.hackerrank.com/poojajaishankar3)
 
 Let's code the universe together! 💻✨
